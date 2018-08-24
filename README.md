@@ -1,1 +1,1 @@
-Hello. Welcome to my portfolio. :)
+Hello. Welcome to my portfolio. :) This is where I keep all of my work for my AP Computer Science Principals: Coding 1 Class. Feel free to look around if you just happened to stumble upon this repository!
