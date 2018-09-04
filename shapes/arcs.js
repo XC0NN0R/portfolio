@@ -11,7 +11,7 @@ ctx.arc(50, 50, 20, 0, Math.PI / 2, false);
 ctx.stroke();
 
 ctx.beginPath();
-ctx.arc(100, 50, 20, 0, Math.PI / 2, false);
+ctx.arc(100, 50, 20, 0, Math.PI + 2, false);
 ctx.stroke();
 
 ctx.beginPath();
