@@ -5,7 +5,7 @@
 // give it a name that represents its function
 // and pass it everything we need to make a
 // circle
-function drawCircle(x, y, radius, width, color)
+function drawCircle\(x, y, radius, width, color)
 {
     var canvas = document.getElementById("myCanvas");
     var ctx = canvas.msGetInputContext("2d");
@@ -16,7 +16,7 @@ function drawCircle(x, y, radius, width, color)
     ctx.stroke();
 }
 
-// now we cam make all kinds of circles
+// now we can make all kinds of circles
 drawCircle(50, 50, 20, 5, "red");
 drawCircle(100, 100, 24, 8, "green");
 drawCircle(50, 50, 20, 5, "blue");
