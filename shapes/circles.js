@@ -17,6 +17,6 @@ function drawCircle(x, y, radius, width, color)
 }
 
 // now we can make all kinds of circles
-drawCircle(50, 50, 20, 5, "red");
+drawCircle(50, 20, 5, "orange");
 drawCircle(100, 100, 24, 8, "green");
 drawCircle(50, 50, 20, 5, "blue");
