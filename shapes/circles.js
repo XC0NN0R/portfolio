@@ -8,7 +8,7 @@
 function drawCircle\(x, y, radius, width, color)
 {
     var canvas = document.getElementById("myCanvas");
-    var ctx = canvas.msGetInputContext("2d");
+    var ctx = canvas.getContext("2d");
     ctx.strokeStyle = color;
     ctx.lineWidth = width;
     ctx.beginPath();
