@@ -5,7 +5,7 @@
 // give it a name that represents its function
 // and pass it everything we need to make a
 // circle
-function drawCircle\(x, y, radius, width, color)
+function drawCircle(x, y, radius, width, color)
 {
     var canvas = document.getElementById("myCanvas");
     var ctx = canvas.getContext("2d");
